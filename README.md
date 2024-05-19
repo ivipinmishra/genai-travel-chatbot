@@ -6,7 +6,7 @@ The Travel GenAI Chatbot is an intelligent assistant designed to help users plan
 
 ## Features
 
-- ** Policy Information**: Provides details on various policies.
+- **Policy Information**: Provides details on various policies.
 - **Checkout Assistance**: Helps users with the checkout process.
 - **Seat Selection Guidance**: Offers information on seat selection options and policies.
 - **Travel Tips**: Provides useful tips and information for various destinations.
